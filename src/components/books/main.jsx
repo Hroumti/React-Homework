@@ -36,6 +36,8 @@ useEffect(() => {
         if (title.trim !== '' && author.trim !== '') {
             setBooks([...books, {id, title:title.current.value, author:author.current.value, rating:0, liked:false}])
             setId(id+1)
+            title.current.value = ''
+            author.current.value = ''
         } else{
             alert('Invalid input!!!')
         }

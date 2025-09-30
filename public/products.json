@@ -1,0 +1,65 @@
+
+  {
+    "Products":[
+        {
+    "id": 1,
+    "label": "Vintage Leather Wallet",
+    "price": 45.99,
+    "image": "https://example.com/images/wallet.jpg"
+  },
+  {
+    "id": 2,
+    "label": "Wireless Bluetooth Earbuds",
+    "price": 79.99,
+    "image": "https://example.com/images/earbuds.jpg"
+  },
+  {
+    "id": 3,
+    "label": "Organic Coffee Beans (1lb)",
+    "price": 18.50,
+    "image": "https://example.com/images/coffee.jpg"
+  },
+  {
+    "id": 4,
+    "label": "Stainless Steel Water Bottle",
+    "price": 25.00,
+    "image": "https://example.com/images/waterbottle.jpg"
+  },
+  {
+    "id": 5,
+    "label": "Portable Power Bank (10000mAh)",
+    "price": 39.99,
+    "image": "https://example.com/images/powerbank.jpg"
+  },
+  {
+    "id": 6,
+    "label": "Artisan Scented Candle",
+    "price": 22.00,
+    "image": "https://example.com/images/candle.jpg"
+  },
+  {
+    "id": 7,
+    "label": "Ergonomic Desk Chair",
+    "price": 189.00,
+    "image": "https://example.com/images/chair.jpg"
+  },
+  {
+    "id": 8,
+    "label": "Smart Home LED Light Bulb",
+    "price": 14.99,
+    "image": "https://example.com/images/lightbulb.jpg"
+  },
+  {
+    "id": 9,
+    "label": "Travel Backpack (Waterproof)",
+    "price": 85.00,
+    "image": "https://example.com/images/backpack.jpg"
+  },
+  {
+    "id": 10,
+    "label": "Noise-Cancelling Headphones",
+    "price": 199.99,
+    "image": "https://example.com/images/headphones.jpg"
+  }
+    ]
+  }
