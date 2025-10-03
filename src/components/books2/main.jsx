@@ -18,7 +18,7 @@ export default function Main() {
         <BookNav/>
         <div className='content-wrapper'>
           <Routes>
-          <Route path='/' element={<h1>Welcome to our website!!!</h1>}/>
+          <Route path='/' element={<h1 style={{color:'white'}}>Welcome to our website!!!</h1>}/>
           <Route path='/book-list' element={<BookList/>}/>
           <Route path='/add-book' element={<BookAddForm/>}/>
           <Route path='/edit/:id' element={<BookEditForm/>}/>
